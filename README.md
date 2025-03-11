@@ -10,9 +10,9 @@ Through this project, I gained hands-on experience with:
 
 - **Sequential Logic** : Designed flip-flops, registers, and memory units to enable stateful computation.
 
-- **Machine Architecture ** : Assembled a 16-bit CPU capable of executing machine instructions.
+- **Machine Architecture** : Assembled a 16-bit CPU capable of executing machine instructions.
 
-- **Low-Level Programming ** : Learned the Hack Assembly language to write and execute programs on my custom-built CPU.
+- **Low-Level Programming** : Learned the Hack Assembly language to write and execute programs on my custom-built CPU.
 
-- **Assembler Implementation ** : Developed an assembler in Python to translate Hack Assembly code into binary machine instructions.
+- **Assembler Implementation** : Developed an assembler in Python to translate Hack Assembly code into binary machine instructions.
 https://www.nand2tetris.org/
